@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul>
+  <li>Pronouns: she/her</>
+</ul>
 - Pronouns: she/her
 - Currently: BSc in Programming
