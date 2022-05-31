@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-  <li>Pronouns: she/her</>
+    <li>
+        Pronouns: she/her
+    </li>
 </ul>
 - Pronouns: she/her
 - Currently: BSc in Programming
