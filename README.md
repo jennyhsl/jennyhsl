@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
-<p>hei</p>
+<p>Pronouns: she/her</p>
+<p>Currentky: BSc in Programming</p>
+<ul>
+  <li>test</li>
+</ul>
 <!--
 **jennyhsl/jennyhsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
