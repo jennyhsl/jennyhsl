@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="center">🎓 Programmingstudent | 🌍 Norway</p>
+<h4 align="center">🎓 Programmingstudent | 🌍 Norway</h4>
 
-------
 
 <p>About me</p>
 <ul>
