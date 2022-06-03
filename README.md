@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
-<p>Pronouns: she/her</p>
-<p>Currentky: BSc in Programming</p>
+<p align="center">Programmingstudent | Norway</p>
+<p>About me</p>
 <ul>
-  <li>test</li>
+  <li>Pronouns: she/her</li>
+  <li>Currently: BSc in Programming</li>
 </ul>
 <!--
 **jennyhsl/jennyhsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Pronouns: she/her
-- Currently: BSc in Programming
