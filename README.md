@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">🎓 Programmingstudent | 🌍 Norway</p>
+
 ---
+
 <p>About me</p>
 <ul>
   <li>Pronouns: she/her</li>
