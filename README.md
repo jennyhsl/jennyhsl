@@ -5,7 +5,9 @@
 ### About me
 <ul>
   <li>👸 Pronouns: she/her</li>
+  <li>👩🏼‍💼 Age: 27 years old</li>
   <li>🎓Currently: BSc in Programming</li>
+  <li>💻 Hobbies: coding, gaming, working out</li>
 </ul>
 
 
