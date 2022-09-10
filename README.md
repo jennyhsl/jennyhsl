@@ -4,8 +4,8 @@
 
 ### About me
 <ul>
-  <li>Pronouns: she/her</li>
-  <li>Currently: BSc in Programming</li>
+  <li>👸 Pronouns: she/her</li>
+  <li>🎓Currently: BSc in Programming</li>
 </ul>
 
 
