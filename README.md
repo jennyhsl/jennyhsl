@@ -2,11 +2,12 @@
 <h4 align="center">🎓 Programmingstudent | 🌍 Norway</h4>
 
 
-<p>About me</p>
+### About me
 <ul>
   <li>Pronouns: she/her</li>
   <li>Currently: BSc in Programming</li>
 </ul>
+
 
 ### Languagues and Tools:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
