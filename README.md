@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
-<h4 align="center">🎓 Programmingstudent | 🌍 Norway</h4>
+<h4 align="center">🎓 Consultant | 🌍 Norway</h4>
 
 
 ### About me
 <ul>
   <li>👸 Pronouns: she/her</li>
-  <li>👩🏼‍💼 Age: 27 years old</li>
-  <li>🎓Currently: BSc in Programming</li>
+  <li>👩🏼‍💼 Age: 28 years old</li>
+  <li>BSc in Programming</li>
   <li>💻 Hobbies: coding, gaming, working out</li>
 </ul>
 
