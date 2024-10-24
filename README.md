@@ -2,15 +2,6 @@
 <h4 align="center"> 💻 Consultant | 🌍 Norway</h4>
 
 
-### About me
-<ul>
-  <li>👸 Pronouns: she/her</li>
-  <li>👩🏼‍💼 Age: 28 years old</li>
-  <li>🎓 BSc in Programming</li>
-  <li>💻 Hobbies: coding, gaming, working out</li>
-</ul>
-
-
 ### Languagues and Tools:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
